@@ -1,9 +1,7 @@
-这是一个象棋小游戏
+这是一个五子棋小游戏
 
-使用Trae来编写
+使用Open Code(Kimi 2.5)编写
 
-使用方法：
-1. 克隆项目到本地
-2. `pip install -r requirements.txt`
-3. 运行xiangqi.py
+- train.py:训练AI
+- app.py:自己下棋/与AI对战
 
